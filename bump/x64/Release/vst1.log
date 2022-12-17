@@ -1,0 +1,32 @@
+﻿  vst1.cpp
+C:\Users\Vancouver\Downloads\finalproject\vst1\vst1.cpp(85,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Vancouver\Downloads\finalproject\vst1\vst1.cpp(86,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Vancouver\Downloads\finalproject\vst1\vst1.cpp(87,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Vancouver\Downloads\finalproject\vst1\vst1.cpp(88,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Vancouver\Downloads\finalproject\vst1\vst1.cpp(90,18): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Vancouver\Downloads\finalproject\vst1\vst1.cpp(91,18): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Vancouver\Downloads\finalproject\vst1\vst1.cpp(143,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Vancouver\Downloads\finalproject\vst1\vst1.cpp(144,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Vancouver\Downloads\finalproject\vst1\vst1.cpp(145,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Vancouver\Downloads\finalproject\vst1\vst1.cpp(146,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Vancouver\Downloads\finalproject\vst1\vst1.cpp(148,18): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Vancouver\Downloads\finalproject\vst1\vst1.cpp(149,18): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Vancouver\Downloads\finalproject\vst1\vst1.cpp(158,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Vancouver\Downloads\finalproject\vst1\vst1.cpp(159,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Vancouver\Downloads\finalproject\vst1\vst1.cpp(160,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Vancouver\Downloads\finalproject\vst1\vst1.cpp(161,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Vancouver\Downloads\finalproject\vst1\vst1.cpp(163,18): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Vancouver\Downloads\finalproject\vst1\vst1.cpp(164,18): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Vancouver\Downloads\finalproject\vst1\vst1.cpp(187,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Vancouver\Downloads\finalproject\vst1\vst1.cpp(188,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Vancouver\Downloads\finalproject\vst1\vst1.cpp(189,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Vancouver\Downloads\finalproject\vst1\vst1.cpp(190,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Vancouver\Downloads\finalproject\vst1\vst1.cpp(192,18): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Vancouver\Downloads\finalproject\vst1\vst1.cpp(193,18): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Vancouver\Downloads\finalproject\vst1\vst1.cpp(219,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Vancouver\Downloads\finalproject\vst1\vst1.cpp(220,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Vancouver\Downloads\finalproject\vst1\vst1.cpp(221,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Vancouver\Downloads\finalproject\vst1\vst1.cpp(222,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Vancouver\Downloads\finalproject\vst1\vst1.cpp(224,18): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Vancouver\Downloads\finalproject\vst1\vst1.cpp(225,18): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+LINK : fatal error LNK1104: 無法開啟檔案 'C:\Users\Vancouver\Downloads\finalproject\vst1\x64\Release\vst1.exe'

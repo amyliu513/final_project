@@ -1,0 +1,32 @@
+﻿  Source.cpp
+C:\Users\USER\Desktop\exam\H8\Project12\Project2\Source.cpp(75,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Desktop\exam\H8\Project12\Project2\Source.cpp(76,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Desktop\exam\H8\Project12\Project2\Source.cpp(77,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Desktop\exam\H8\Project12\Project2\Source.cpp(78,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Desktop\exam\H8\Project12\Project2\Source.cpp(80,18): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Desktop\exam\H8\Project12\Project2\Source.cpp(81,18): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Desktop\exam\H8\Project12\Project2\Source.cpp(129,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Desktop\exam\H8\Project12\Project2\Source.cpp(130,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Desktop\exam\H8\Project12\Project2\Source.cpp(131,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Desktop\exam\H8\Project12\Project2\Source.cpp(132,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Desktop\exam\H8\Project12\Project2\Source.cpp(134,18): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Desktop\exam\H8\Project12\Project2\Source.cpp(135,18): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Desktop\exam\H8\Project12\Project2\Source.cpp(144,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Desktop\exam\H8\Project12\Project2\Source.cpp(145,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Desktop\exam\H8\Project12\Project2\Source.cpp(146,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Desktop\exam\H8\Project12\Project2\Source.cpp(147,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Desktop\exam\H8\Project12\Project2\Source.cpp(149,18): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Desktop\exam\H8\Project12\Project2\Source.cpp(150,18): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Desktop\exam\H8\Project12\Project2\Source.cpp(172,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Desktop\exam\H8\Project12\Project2\Source.cpp(173,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Desktop\exam\H8\Project12\Project2\Source.cpp(174,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Desktop\exam\H8\Project12\Project2\Source.cpp(175,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Desktop\exam\H8\Project12\Project2\Source.cpp(177,18): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Desktop\exam\H8\Project12\Project2\Source.cpp(178,18): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Desktop\exam\H8\Project12\Project2\Source.cpp(204,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Desktop\exam\H8\Project12\Project2\Source.cpp(205,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Desktop\exam\H8\Project12\Project2\Source.cpp(206,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Desktop\exam\H8\Project12\Project2\Source.cpp(207,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Desktop\exam\H8\Project12\Project2\Source.cpp(209,18): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Desktop\exam\H8\Project12\Project2\Source.cpp(210,18): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  Project2.vcxproj -> C:\Users\USER\Desktop\exam\H8\Project12\x64\Debug\Project2.exe
